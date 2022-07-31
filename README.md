@@ -1,4 +1,6 @@
-# <p align=center> 👨‍💻 Eduardo Chaves → FRONT-END DEV 👨‍💻</p>
+![frontenddev](https://user-images.githubusercontent.com/95307858/182024124-95c7f502-f69e-409c-a6e9-f1f8dca4864c.jpg)
+
+# <p align=center> 👨‍💻 Eduardo Henrique Santos Chaves 👨‍💻</p>
 
 <p align=center>
 	<a href=https://www.linkedin.com/in/eduardohenriquesantoschaves/>
