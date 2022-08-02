@@ -1,6 +1,6 @@
-![frontenddev](https://user-images.githubusercontent.com/95307858/182024124-95c7f502-f69e-409c-a6e9-f1f8dca4864c.jpg)
+![mybanner](https://user-images.githubusercontent.com/95307858/182368380-548db1c5-deb1-48d2-81d3-eac30f4ce16c.jpg)
 
-# <p align=center> 👨‍💻 Eduardo Henrique Santos Chaves 👨‍💻</p>
+# <p align=center>EDUARDO CHAVES: FRONT-END DEV</p>
 
 <p align=center>
 	<a href=https://www.linkedin.com/in/eduardohenriquesantoschaves/>
@@ -8,8 +8,8 @@
 	<a href=mailto:henriqueduardo2002@gmail.com>
 		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
-		
-## <img src=https://cdn-icons-png.flaticon.com/512/868/868786.png width=40> TECNOLOGIAS:
+
+## ⚛️ TECNOLOGIAS:
 
 ### — Estudando no momento:
 
@@ -24,9 +24,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=50>
-<img src="https://cdn-icons-png.flaticon.com/512/463/463292.png" width=40>
+<img src="https://cdn-icons-png.flaticon.com/512/463/463292.png" width=40><br>
+<br>
 
-## <img src=https://cdn-icons-png.flaticon.com/512/942/942748.png width=40> Sobre Mim:
+## 👨‍💻 Sobre Mim:
 
 + Desenvolvedor Web Front-End;
 + Pretendo aprender Back-End em seguida para me tornar um Dev Full-Stack;
