@@ -1,9 +1,9 @@
 ![mybanner](https://user-images.githubusercontent.com/95307858/182368380-548db1c5-deb1-48d2-81d3-eac30f4ce16c.jpg)
 
 <p align=center>
-	<a href=https://www.linkedin.com/in/eduardohenriquesantoschaves/>
+	<a href="https://www.linkedin.com/in/eduardohenriquesantoschaves"/>
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-	<a href=mailto:henriqueduardo2002@gmail.com>
+	<a href="mailto:henriqueduardo2002@gmail.com">
 		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 
@@ -58,4 +58,4 @@
 
 #### Mais informações sobre certificados, experiências profissionais e mais - no meu LinkedIn.
 ---
-## <p align=center> <b>"Conhecereis a Verdade, e a Verdade Vos Libertará" — João 8:32</b> </p>
+## <p align=center> <em>"Conhecereis a Verdade, e a Verdade Vos Libertará" — João 8:32</em> </p>
