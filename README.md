@@ -1,7 +1,5 @@
 ![mybanner](https://user-images.githubusercontent.com/95307858/182368380-548db1c5-deb1-48d2-81d3-eac30f4ce16c.jpg)
 
-# <p align=center>EDUARDO CHAVES: FRONT-END DEV</p>
-
 <p align=center>
 	<a href=https://www.linkedin.com/in/eduardohenriquesantoschaves/>
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
