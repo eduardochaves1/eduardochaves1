@@ -1,4 +1,4 @@
-![mybanner](https://user-images.githubusercontent.com/95307858/182368380-548db1c5-deb1-48d2-81d3-eac30f4ce16c.jpg)
+![mybanner1](https://user-images.githubusercontent.com/95307858/188609034-9c8092ab-3158-4dd6-84e0-42724d20fc56.jpg)
 
 <p align=center>
 	<a href="https://www.linkedin.com/in/edu-chaves">
@@ -11,26 +11,25 @@
 
 ### — Estudando no momento:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=50>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 ### — Planejo Aprender:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=50>
-<img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" width=50>
-<img src="https://cdn-icons-png.flaticon.com/512/463/463292.png" width=40><br>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://cdn-icons-png.flaticon.com/512/463/463292.png" width=30><br>
 <br>
 
 ## 👨‍💻 Sobre Mim:
 
 + Desenvolvedor Web Front-End;
 + Pretendo aprender Back-End em seguida para me tornar um Dev Full-Stack;
-+ Estudante de Ciência da Computação;
++ Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);
 + Entusiasmado por Tecnologia e suas Derivações;
 + Altamente Organizado & Metódico;
 + Disposto a Aprender Coisas Novas e de Valor;
