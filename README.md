@@ -1,18 +1,23 @@
 ![mybanner1](https://user-images.githubusercontent.com/95307858/188609034-9c8092ab-3158-4dd6-84e0-42724d20fc56.jpg)
 
-<p align=center>
+<p align = center>
 	<a href="https://www.linkedin.com/in/edu-chaves">
-		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  </a>
 	<a href="mailto:henriqueduardo2002@gmail.com">
-		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  </a>
 </p>
 
 ## ⚛️ TECNOLOGIAS:
 
-### — Estudando no momento:
+### — Experiência em:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+### — Estudando no momento:
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
@@ -27,6 +32,10 @@
 
 ## 👨‍💻 Sobre Mim:
 
+### — Projetos:
++ [Conheça Meus Principais Projetos Front-End Através Desta Lista.](https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end "Principais Projetos Front-End 💻")
+
+### — Quem é Eduardo Chaves?
 + Desenvolvedor Web Front-End;
 + Pretendo aprender Back-End em seguida para me tornar um Dev Full-Stack;
 + Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);
@@ -36,7 +45,7 @@
 + Autodidata.
 
 ### — Soft Skills:
-+ Inglês Intermediário;
++ Inglês Intermediário à Avançado;
 + Capacidade Analítica;
 + Planejamento Estratégico e Ágil;
 + Resolução de Problemas;
@@ -56,6 +65,6 @@
 + Musculação e Nutrição;
 + Teologia (Cristão).
 
-#### Mais informações sobre certificados, experiências profissionais e mais - no meu LinkedIn.
+#### Mais informações sobre certificados, experiências profissionais e mais - no meu [LinkedIn](https://www.linkedin.com/in/edu-chaves).
 ---
 ## <p align=center> <em>"Conhecereis a Verdade, e a Verdade Vos Libertará" — João 8:32</em> </p>
