@@ -20,7 +20,13 @@
 ### — Back-End:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+
+### — Produtividade:
+
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 ### — Planejo Aprender:
 
@@ -33,39 +39,42 @@
 
 ## 👨‍💻 Sobre Mim:
 
-### — Projetos:
-+ [Principais Projetos Front-End 💻](https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end "Principais Projetos Front-End 💻")
-+ [Principais Projetos de Lógica de Programação 👨‍💻](https://github.com/stars/eduardochaves1/lists/logica-de-programacao "Principais Projetos de Lógica de Programação 👨‍💻")
-+ Estou constantemente estudando e realizando projetos relacionado à Desenvolvimento Web, Lógica de Programação, etc. E a medida que aprendo coisas novas estou adicionando aqui e no meu LinkedIn tais conhecimentos & tecnologias.
+<details>
+  <summary><h3>🏗️ Projetos:</h3></summary>
+    <li>
+      <a href="https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end" title="Principais Projetos Front-End 💻">Principais Projetos Front-End 💻</a>
+    </li>
+    <li>
+      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Principais Projetos de Lógica de Programação 👨‍💻">Principais Projetos de Lógica de Programação 👨‍💻</a>
+    </li>
+    <li>Estou constantemente estudando e realizando projetos relacionado à Desenvolvimento Web, Lógica de Programação, etc. E a medida que aprendo coisas novas estou adicionando aqui e no meu LinkedIn tais conhecimentos & tecnologias.</li>
+</details>
 
-### — Quem é Eduardo Chaves?
-+ Desenvolvedor Web com ênfase em Front-End;
-+ Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);
-+ Entusiasmado por Tecnologia e suas Derivações;
-+ Altamente Organizado & Metódico;
-+ Disposto a Aprender Coisas Novas e de Valor;
-+ Autodidata.
+<details>
+  <summary><h3>🙋‍‍♂️ Quem é Eduardo Chaves?</h3></summary>
+    <li>Desenvolvedor Web com ênfase em Front-End;</li>
+    <li>Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);</li>
+    <li>Entusiasmado por Tecnologia e suas Derivações;</li>
+    <li>Altamente Organizado & Metódico;</li>
+    <li>Disposto a Aprender Coisas Novas e de Valor;</li>
+    <li>Autodidata.</li>
+</details>
 
-### — Soft Skills:
-+ Inglês Intermediário à Avançado;
-+ Capacidade Analítica;
-+ Planejamento Estratégico e Ágil;
-+ Resolução de Problemas;
-+ Comunicação Objetiva;
-+ Espírito de Equipe;
-+ Empreendedorismo.
+<details>
+  <summary><h3>💬 Soft Skills:</h3></summary>
+    <li>Inglês Intermediário à Avançado;</li>
+    <li>Capacidade Analítica;</li>
+    <li>Planejamento Estratégico e Ágil;</li>
+    <li>Resolução de Problemas;</li>
+    <li>Comunicação Objetiva;</li>
+    <li>Espírito de Equipe;</li>
+    <li>Empreendedorismo.</li>
+</details>
 
-### — Experiências Internacionais:
-+ Intercâmbio de 4 Meses Realizado na Nova Zelândia em 2020.
-
-### — Hobbies:
-+ Economia / Investimento / Finanças;
-+ Design Digital;
-+ Edição de Vídeo;
-+ Fotografia;
-+ Filmmaking;
-+ Musculação e Nutrição;
-+ Teologia (Cristão).
+<details>
+  <summary><h3>🌐 Experiências Internacionais:</h3></summary>
+    <li>Intercâmbio de 4 Meses Realizado na Nova Zelândia em 2020.</li>
+</details>
 
 #### Mais informações sobre certificados, experiências profissionais e mais - no meu [LinkedIn](https://www.linkedin.com/in/edu-chaves).
 ---
