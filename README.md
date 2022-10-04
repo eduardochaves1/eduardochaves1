@@ -40,6 +40,17 @@
 ## 👨‍💻 Sobre Mim:
 
 <details>
+  <summary><h3>🙋‍‍♂️ Quem é Eduardo Chaves?</h3></summary>
+    <li>Desenvolvedor Web com ênfase em Front-End;</li>
+    <li>Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);</li>
+    <li>Fiz um Intercâmbio de 4 Meses Realizado na Nova Zelândia em 2020.</li>
+    <li>Entusiasmado por Tecnologia;</li>
+    <li>Organizado & Metódico;</li>
+    <li>Disposto a Aprender Coisas de Valor;</li>
+    <li>Autodidata.</li>
+</details>
+
+<details>
   <summary><h3>🏗️ Projetos:</h3></summary>
     <li>
       <a href="https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end" title="Principais Projetos Front-End 💻">Principais Projetos Front-End 💻</a>
@@ -47,33 +58,17 @@
     <li>
       <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Principais Projetos de Lógica de Programação 👨‍💻">Principais Projetos de Lógica de Programação 👨‍💻</a>
     </li>
-    <li>Estou constantemente estudando e realizando projetos relacionado à Desenvolvimento Web, Lógica de Programação, etc. E a medida que aprendo coisas novas estou adicionando aqui e no meu LinkedIn tais conhecimentos & tecnologias.</li>
-</details>
-
-<details>
-  <summary><h3>🙋‍‍♂️ Quem é Eduardo Chaves?</h3></summary>
-    <li>Desenvolvedor Web com ênfase em Front-End;</li>
-    <li>Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);</li>
-    <li>Entusiasmado por Tecnologia e suas Derivações;</li>
-    <li>Altamente Organizado & Metódico;</li>
-    <li>Disposto a Aprender Coisas Novas e de Valor;</li>
-    <li>Autodidata.</li>
+    <li>Estou constantemente estudando e realizando projetos relacionado à Desenvolvimento Web, Lógica de Programação, etc. E a medida que aprendo coisas novas estou adicionando aqui e no meu LinkedIn tais conhecimentos, tecnologias e projetos.</li>
 </details>
 
 <details>
   <summary><h3>💬 Soft Skills:</h3></summary>
     <li>Inglês Intermediário à Avançado;</li>
-    <li>Capacidade Analítica;</li>
-    <li>Planejamento Estratégico e Ágil;</li>
+    <li>Planejamento Estratégico;</li>
     <li>Resolução de Problemas;</li>
     <li>Comunicação Objetiva;</li>
     <li>Espírito de Equipe;</li>
     <li>Empreendedorismo.</li>
-</details>
-
-<details>
-  <summary><h3>🌐 Experiências Internacionais:</h3></summary>
-    <li>Intercâmbio de 4 Meses Realizado na Nova Zelândia em 2020.</li>
 </details>
 
 #### Mais informações sobre certificados, experiências profissionais e mais - no meu [LinkedIn](https://www.linkedin.com/in/edu-chaves).
