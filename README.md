@@ -74,6 +74,17 @@
 </details>
 
 <details>
+  <summary><h3>🧠 Hard Skills:</h3></summary>
+  <ul>
+    <li>Conhecimentos em Otimização de SEO;</li>
+    <li>Experiência com sites WordPress utilizando plugins no-code, ex.: Elementor, Microthemer, etc...;</li>
+    <li>Programação Orientada a Objetos (estudando atualmente na faculdade);</li>
+    <li>Modelagem e Criação de Banco de Dados (estudando atualmente na faculdade);</li>
+    <li>Conhecimentos em Engenharia de Requisitos & Processos de Criação de Software (estudando atualmente na faculdade);</li>
+  </ul>
+</details>
+
+<details>
   <summary><h3>💬 Soft Skills:</h3></summary>
   <ul>
     <li>Inglês Intermediário à Avançado;</li>
