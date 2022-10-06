@@ -47,6 +47,7 @@
 
 <details>
   <summary><h3>🙋‍‍♂️ Quem é Eduardo Chaves?</h3></summary>
+  <blockquote>Olá, me chamo Eduardo Chaves! Tenho 20 anos de idade - sou nascido, criado e moro em Caruaru-PE. Sempre cresci apegado a tecnologia, mas foi no final de 2021 que comecei a estudar programação e toda a área de tecnologia como um todo de forma autodidata. E em agosto de 2022 comecei meu curso de Ciência da Computação pela Wyden Unifavip Caruaru. Atualmente estou dando ênfase dos meus estudos na área de Desenvolvimento Web (focando mais em Front-End no momento). E já estou fazendo alguns projetos no meu GitHub com HTML, CSS e JavaScript e continuo sempre aprendendo... E para alavancar ainda mais minhas habilidades estou buscando um estágio na área.</blockquote>
   <ul>
     <li>Desenvolvedor Web com ênfase em Front-End;</li>
     <li>Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);</li>
