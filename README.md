@@ -31,17 +31,9 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
-
-### — Planejo Aprender:
-
-<div>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://cdn-icons-png.flaticon.com/512/463/463292.png" width=30>
-</div>
 <br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardochaves1&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👨‍💻 Sobre Mim:
 
