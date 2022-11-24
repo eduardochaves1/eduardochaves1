@@ -39,15 +39,29 @@
 
 <details>
   <summary><h3>🙋‍‍♂️ Quem é Eduardo Chaves?</h3></summary>
-  <blockquote>Olá, me chamo Eduardo Chaves! Tenho 20 anos de idade - sou nascido, criado e moro em Caruaru-PE. Sempre cresci apegado a tecnologia, mas foi no final de 2021 que comecei a estudar programação e toda a área de tecnologia como um todo de forma autodidata. E em agosto de 2022 comecei meu curso de Ciência da Computação pela Wyden Unifavip Caruaru. Atualmente estou dando ênfase dos meus estudos na área de Desenvolvimento Web (focando mais em Front-End no momento). E já estou fazendo alguns projetos no meu GitHub com HTML, CSS e JavaScript e continuo sempre aprendendo... E para alavancar ainda mais minhas habilidades estou buscando um estágio na área.</blockquote>
+  <blockquote>
+    Olá, me chamo Eduardo Chaves! Tenho 20 anos de idade - sou nascido, criado e moro em Caruaru-PE. Sempre cresci apegado a tecnologia, e a partir de dezembro de 2021, comecei a estudar programação e toda a área de tecnologia como um todo de forma autodidata. E em agosto de 2022 comecei meu curso de Ciência da Computação pela Wyden Unifavip Caruaru. Atualmente estou dando ênfase dos meus estudos na área de Desenvolvimento Web. E periodicamente faço alguns projetos que posto no meu GitHub, com o intuito de praticar e aprender novas tecnologias... E para alavancar ainda mais minhas habilidades estou buscando um estágio na área!
+  </blockquote>
   <ul>
-    <li>Desenvolvedor Web com ênfase em Front-End;</li>
+    <li>Desenvolvedor Web;</li>
     <li>Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);</li>
     <li>Fiz um Intercâmbio de 4 Meses Realizado na Nova Zelândia em 2020.</li>
     <li>Entusiasmado por Tecnologia;</li>
     <li>Organizado & Metódico;</li>
     <li>Disposto a Aprender Coisas de Valor;</li>
     <li>Autodidata.</li>
+  </ul>
+</details>
+
+<details>
+  <summary><h3>💬 Soft Skills:</h3></summary>
+  <ul>
+    <li>Inglês Intermediário à Avançado;</li>
+    <li>Planejamento Estratégico;</li>
+    <li>Resolução de Problemas;</li>
+    <li>Comunicação Objetiva;</li>
+    <li>Espírito de Equipe;</li>
+    <li>Empreendedorismo.</li>
   </ul>
 </details>
 
@@ -63,29 +77,6 @@
     <li>
     Estou constantemente estudando e realizando projetos relacionado à Desenvolvimento Web, Lógica de Programação, etc. E a medida que aprendo coisas novas estou adicionando aqui e no meu LinkedIn tais conhecimentos, tecnologias e projetos.
     </li>
-  </ul>
-</details>
-
-<details>
-  <summary><h3>🧠 Hard Skills:</h3></summary>
-  <ul>
-    <li>Conhecimentos dos Conceitos sobre Otimização de SEO;</li>
-    <li>Experiência com sites WordPress utilizando plugins no-code, ex.: Elementor, Microthemer, etc...;</li>
-    <li>Programação Orientada a Objetos (estudando atualmente na faculdade);</li>
-    <li>Modelagem e Criação de Banco de Dados (estudando atualmente na faculdade);</li>
-    <li>Conhecimentos em Engenharia de Requisitos & Processos de Criação de Software (estudando atualmente na faculdade);</li>
-  </ul>
-</details>
-
-<details>
-  <summary><h3>💬 Soft Skills:</h3></summary>
-  <ul>
-    <li>Inglês Intermediário à Avançado;</li>
-    <li>Planejamento Estratégico;</li>
-    <li>Resolução de Problemas;</li>
-    <li>Comunicação Objetiva;</li>
-    <li>Espírito de Equipe;</li>
-    <li>Empreendedorismo.</li>
   </ul>
 </details>
 
