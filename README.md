@@ -67,13 +67,16 @@
   <summary><h3>🏗️ Projetos:</h3></summary>
   <ul>
     <li>
-      <a href="https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end" title="Principais Projetos Front-End 💻">Principais Projetos Front-End 💻</a>
+      <a href="https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end" title="Projetos de Front-End 💻">Projetos de Front-End 💻</a>
     </li>
     <li>
-      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Principais Projetos de Lógica de Programação 👨‍💻">Principais Projetos de Lógica de Programação 👨‍💻</a>
+      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Projetos de Data Science 📊">Projetos de Data Science 📊</a>
     </li>
     <li>
-    Estou constantemente estudando e realizando projetos relacionado à Desenvolvimento Web, Lógica de Programação, etc. E a medida que aprendo coisas novas estou adicionando aqui e no meu LinkedIn tais conhecimentos, tecnologias e projetos.
+      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Projetos de Lógica de Programação 👨‍💻">Projetos de Lógica de Programação 👨‍💻</a>
+    </li>
+    <li>
+    Estou constantemente estudando e realizando projetos relacionado à Desenvolvimento Web, Lógica de Programação, etc. E a medida que aprendo coisas novas estou adicionando aqui e no meu LinkedIn tais conhecimentos em forma de projetos.
     </li>
   </ul>
 </details>
