@@ -42,7 +42,7 @@
 <details>
   <summary><h3>💪 Hard Skills:</h3></summary>
   <ul>
-    <li>Ciência de Dados (Python);</li>
+    <li>Ciência de Dados (Pytho & SQL);</li>
     <li>Análise, Visualização & Dashboard de Dados (Pandas, Plotly, Streamlit);</li>
     <li>Pré-processamento de Dados;</li>
     <li>Machine Learning (ScikitLearn);</li>
