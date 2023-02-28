@@ -12,60 +12,60 @@
 ---
 
 <details>
-  <summary><h3>👨‍💻 Sobre Mim:</h3></summary>
+  <summary><h3>👨‍💻 About Me:</h3></summary>
   <blockquote>
-    Olá, me chamo Eduardo Chaves! Tenho 20 anos de idade - sou nascido, criado e moro em Caruaru-PE. Sempre cresci apegado a tecnologia, e a partir de dezembro de 2021, comecei a estudar programação e toda a área de tecnologia como um todo de forma autodidata. E em agosto de 2022 comecei meu curso de Ciência da Computação pela Wyden Unifavip Caruaru. Atualmente estou estagiando remotamente na área de Ciência de Dados através da Procenge onde estou obtendo ótimas experiências e aprendendo cada vez mais!
+    Hi, my name is Eduardo Chaves! I'm a 20 yo Brazilian guy that grow up with technology in my life, and in the end of 2021 I started self studying programming, as well as the whole technology area. After awhile at august 2022, I started my Computer Science Degree. And now I'm currently interning remotely in the Data Science field through Procenge where I'm obtaining great experiences and learning more and more!
   </blockquote>
   <ul>
-    <li>Cientista de Dados;</li>
-    <li>Estudante de Ciência da Computação na Wyden Unifavip Caruaru (2022-2026);</li>
-    <li>Fiz um Intercâmbio de 4 Meses Realizado na Nova Zelândia em 2020.</li>
-    <li>Entusiasmado por Tecnologia;</li>
-    <li>Organizado & Metódico;</li>
-    <li>Disposto a Aprender Coisas de Valor;</li>
-    <li>Autodidata.</li>
+    <li>Data Scientist;</li>
+    <li>Computer Science Student at Wyden Unifavip Caruaru (2022-2026);</li>
+    <li>4-Month Exchange at New Zealand in 2020;</li>
+    <li>Technology Enthusiast;</li>
+    <li>Organized & Methodical;</li>
+    <li>Willing to Learn Worthwhile Things;</li>
+    <li>Self-taught.</li>
   </ul>
 </details>
 
 <details>
   <summary><h3>💬 Soft Skills:</h3></summary>
   <ul>
-    <li>Inglês Intermediário à Avançado;</li>
-    <li>Planejamento Estratégico;</li>
-    <li>Resolução de Problemas;</li>
-    <li>Comunicação Objetiva;</li>
-    <li>Espírito de Equipe;</li>
-    <li>Empreendedorismo.</li>
+    <li>Bilingual Person (Portuguese and English);</li>
+    <li>Strategic Planning;</li>
+    <li>Problem-Solving;</li>
+    <li>Objective Communication;</li>
+    <li>Team Spirit;</li>
+    <li>Entrepreneurship.</li>
   </ul>
 </details>
 
 <details>
   <summary><h3>💪 Hard Skills:</h3></summary>
   <ul>
-    <li>Ciência de Dados (Python & SQL);</li>
-    <li>Análise, Visualização & Dashboard de Dados (Plotly & Streamlit);</li>
-    <li>Processamento de Dados (Pandas);</li>
+    <li>Data Science (Python & SQL);</li>
+    <li>Data Analysis, Visualization & Dashboard (Plotly & Streamlit);</li>
+    <li>Data Preprocessing (Pandas);</li>
     <li>Machine Learning (ScikitLearn);</li>
     <li>Softwares (Git/GitHub, Linux, Notion, Figma);</li>
-    <li>Desenvolvimento Web (HTML/CSS/JS, SEO).</li>
+    <li>Web Development (HTML/CSS/JS, SEO).</li>
   </ul>
 </details>
 
 <details>
-  <summary><h3>🏗️ Projetos:</h3></summary>
+  <summary><h3>🏗️ Projects:</h3></summary>
   <ul>
     <li>
-      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Projetos de Data Science 📊">Projetos de Data Science 📊</a>
+      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Data Science Projects 📊">Data Science Projects 📊</a>
     </li>
     <li>
-      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Projetos de Lógica de Programação 👨‍💻">Projetos de Lógica de Programação 👨‍💻</a>
+      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Programming Logic Projects 👨‍💻">Programming Logic Projects 👨‍💻</a>
     </li>
     <li>
-      <a href="https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end" title="Projetos de Front-End 💻">Projetos de Front-End 💻</a>
+      <a href="https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end" title="Front-End Projects 💻">Front-End Projects 💻</a>
     </li>
   </ul>
 </details>
 
-#### Mais informações sobre certificados, experiências profissionais e mais - no meu [LinkedIn](https://www.linkedin.com/in/edu-chaves).
+#### More information about certificates, professrional experiences and more on my [LinkedIn](https://www.linkedin.com/in/edu-chaves).
 ---
-## <p align=center> <em>"Conhecereis a Verdade, e a Verdade Vos Libertará" — João 8:32</em> </p>
+## <p align=center> <em>"And ye shall know the truth, and the truth shall make you free - John 8:32</em> </p>
