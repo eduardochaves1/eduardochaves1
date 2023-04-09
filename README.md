@@ -55,13 +55,13 @@
   <summary><h3>🏗️ Projects:</h3></summary>
   <ul>
     <li>
-      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Data Science Projects 📊">Data Science Projects 📊</a>
+      <a href="https://github.com/stars/eduardochaves1/lists/data-science" title="Data Science Projects 📊">Data Science Projects 📊</a>
     </li>
     <li>
-      <a href="https://github.com/stars/eduardochaves1/lists/logica-de-programacao" title="Programming Logic Projects 👨‍💻">Programming Logic Projects 👨‍💻</a>
+      <a href="https://github.com/stars/eduardochaves1/lists/algo-programming-logic" title="Programming Logic Projects 👨‍💻">Programming Logic Projects 👨‍💻</a>
     </li>
     <li>
-      <a href="https://github.com/stars/eduardochaves1/lists/principais-projetos-front-end" title="Front-End Projects 💻">Front-End Projects 💻</a>
+      <a href="https://github.com/stars/eduardochaves1/lists/front-end" title="Front-End Projects 💻">Front-End Projects 💻</a>
     </li>
   </ul>
 </details>
