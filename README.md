@@ -13,9 +13,12 @@
 
 <details>
   <summary><h3>👨‍💻 About Me:</h3></summary>
-  <blockquote>
-    Hi, my name is Eduardo Chaves! I'm a 20 yo Brazilian guy that grow up with technology in my life, and in the end of 2021 I started self studying programming, as well as the whole technology area. After awhile at august 2022, I started my Computer Science Degree. And now I'm currently interning remotely in the Data Science field through Procenge where I'm obtaining great experiences and learning more and more!
-  </blockquote>
+  <p>
+    Hi, my name is Eduardo Chaves! I'm a 20 yo Brazilian guy that grow up with technology in my life, and in the end of 2021 I started self studying programming, as well as the whole technology area. Today I'm in the second period on my Computer Science degree at Wyden Unifavip Caruaru.
+  </p>
+  <p>
+    I recently finished my first internship in the Data Science field and I am currently looking for a new opportunity to keep advancing my knowledge and skills in this area that I enjoy so much.
+  </p>
   <ul>
     <li>Data Scientist;</li>
     <li>Computer Science Student at Wyden Unifavip Caruaru (2022-2026);</li>
